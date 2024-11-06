@@ -1,7 +1,7 @@
 package eventstore
 
 import (
-	"github.com/driftbase/auth/internal/database"
+	"github.com/bitbend/auth/internal/database"
 )
 
 type EventStore struct {
